@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f55a5a;
+}
+
+.navbar > img {
+  width: 50px;
+  padding: 5px;
+}
+
+.navbar > span {
+  color: aliceblue;
+  margin-left: 5px;
+}
